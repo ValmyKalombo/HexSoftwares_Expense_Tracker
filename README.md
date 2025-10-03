@@ -47,6 +47,11 @@ Reset all expenses if needed
 
 Example Output:
 
+<img width="417" height="905" alt="expense_tracker1" src="https://github.com/user-attachments/assets/0a379c3a-febb-45d9-afa3-b17e0cf895fa" />
+
+
+
+
 
 🔮 Future Improvements
 
@@ -55,6 +60,7 @@ Add monthly reports with graphs
 Implement expense deletion by ID
 
 Build a GUI or web-based interface
+
 
 👨‍💻 Author
 
