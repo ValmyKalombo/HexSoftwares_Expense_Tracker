@@ -1,0 +1,18 @@
+Ignore expense data file
+
+expenses.csv
+
+Python cache
+
+pycache/
+*.pyc
+
+Virtual environment
+
+venv/
+.env/
+
+System files
+
+.DS_Store
+Thumbs.db
